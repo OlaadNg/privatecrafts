@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" width="320" height="60">
+  <g transform="translate(10, 8)">
+    <path d="M22 4 L40 40 L22 32 L4 40 Z" fill="none" stroke="#D4AF37" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M22 10 L34 36 L22 30 L10 36 Z" fill="#D4AF37"/>
+  </g>
+  <text x="65" y="38" font-family="'Cormorant Garamond', Georgia, serif" font-size="24" font-weight="600" letter-spacing="4" fill="#F5F5F0">PRIVATECRAFT</text>
+  <text x="66" y="50" font-family="'Manrope', sans-serif" font-size="8" font-weight="500" letter-spacing="3" fill="#D4AF37">PRIVATE AVIATION</text>
+</svg>
